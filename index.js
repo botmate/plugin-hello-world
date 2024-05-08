@@ -1,4 +1,4 @@
-import { Composer } from 'grammy';
+const { Composer } = require('grammy');
 
 const bot = new Composer();
 

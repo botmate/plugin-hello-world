@@ -6,4 +6,4 @@ bot.command('start', (ctx) => {
 	ctx.reply(`Hello, ${ctx.chat.first_name}!`);
 });
 
-export default bot;
+module.exports = bot;
